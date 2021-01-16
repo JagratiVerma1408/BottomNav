@@ -58,6 +58,7 @@ public class UserAdapter extends RecyclerView.Adapter<UserAdapter.ViewHolder> {
             title=itemView.findViewById(R.id.titletext);
             body=itemView.findViewById(R.id.bodytext);
             likes=itemView.findViewById(R.id.likestexts);
+            //this is shit
 
         }
 
